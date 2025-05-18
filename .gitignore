@@ -1,0 +1,70 @@
+# Node.js dependencies
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.test
+.env.production
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+out/
+tmp/
+temp/
+
+# Testing
+coverage/
+.nyc_output/
+jest-cache/
+jest-coverage/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# TypeScript
+*.tsbuildinfo
+
+# PM2 logs and runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Misc
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+
+# Mac system files
+*.DS_Store
+
+# ESLint cache
+.eslintcache
+
+# Optional: Ignore SQLite DB or local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Optional: Ignore uploads or user-generated files
+uploads/
