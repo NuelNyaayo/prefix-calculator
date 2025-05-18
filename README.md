@@ -25,5 +25,5 @@ The calculator currently supports the following basic arithmetic operations:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/prefix-calculator.git
+git clone https://github.com/NuelNyaayo/prefix-calculator.git
 
